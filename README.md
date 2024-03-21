@@ -16,6 +16,9 @@ git clone <repository_url>
 mkdir db
 mkdir models
 ## Add your model files to the 'models' folder
+
+Please download the model or clone the model from the hugging face web page. and use it in the model folder.
+
 mkdir docs
 
 ----
