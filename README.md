@@ -15,11 +15,15 @@ git clone <repository_url>
 ## Create the necessary folders
 mkdir db
 mkdir models
-## Add your model files to the 'models' folder
+## Add your model files downloaded from the hugging face page to the 'models' folder
 
 Please download the model or clone the model from the hugging face web page. and use it in the model folder.
 
 mkdir docs
+
+### Run the Requirements.txt
+
+'pip install -r requirements.txt'
 
 ----
 ### Usage 
